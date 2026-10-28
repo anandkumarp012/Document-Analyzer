@@ -3,7 +3,7 @@ import streamlit as st
 import requests
 from chatbot import answer_question
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://document-analyzer-q5sc.onrender.com"
 
 st.set_page_config(
     page_title="AI Document Analyzer",
