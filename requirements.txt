@@ -8,5 +8,6 @@ PyMuPDF
 python-multipart
 SQLAlchemy
 pytest
-openai
+requests
+google-genai
 python-dotenv
